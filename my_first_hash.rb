@@ -25,7 +25,7 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-[muskets] = 2
+shipping_manifest[muskets] = 2
 
 
 
